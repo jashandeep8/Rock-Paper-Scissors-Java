@@ -14,7 +14,7 @@ Variables :
 User Input ,
 String Methods ,
 Conditional Statements ,
-Nested If Statements ,
+Nested If Statements 
 
 Author :
 Jashandeep Kaur
